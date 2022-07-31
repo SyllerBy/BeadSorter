@@ -74,7 +74,6 @@ Print:
 - 4-Stepper_shaft.stl
 - 4-Stepper_shaft_ring.stl
 - 4-Servo_base2.stl
-- 4-Stepper_shaft_ring.stl
 - 3-analyzer-entry-tube_modified.stl
 - 3-Sequencer_tube_modified_tighter_Higher_Motor.stl
 - 5-outputs-slide-1.stl
